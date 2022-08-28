@@ -1,0 +1,11 @@
+{
+  "name": "ts-code-ref-shared",
+  "private": true,
+  "engines": {
+    "node": "16"
+  },
+  "scripts": {},
+  "dependencies": {
+    "date-fns": "^2.29.2"
+  }
+}

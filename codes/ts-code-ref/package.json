@@ -1,0 +1,14 @@
+{
+  "name": "ts-code-ref",
+  "private": true,
+  "engines": {
+    "node": "16"
+  },
+  "scripts": {},
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
